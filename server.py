@@ -2,7 +2,7 @@
 import socket
 import time
 
-SERVER_IP = "192.168.1.10"
+SERVER_IP = "127.0.0.1"
 SERVER_PORT = 5005
 print("SERVER IS STARTING...")
 time.sleep(2)
